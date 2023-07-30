@@ -151,6 +151,9 @@ footer{
         padding: 0.5em;
         margin: 0.1em;
     }
+    .footerp{
+        width : 99%;
+    }
 
 }
 
